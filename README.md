@@ -1,6 +1,6 @@
 # NEFER Face Detection
 
-A Python-based face detection project built on the [NEFER dataset](https://github.com/miccunifi/NEFER) — a neuromorphic, event-based dataset for facial expression recognition presented at CVPR 2023.
+The project developed the face detection system trained on the [NEFER dataset](https://github.com/miccunifi/NEFER) — a neuromorphic, event-based dataset for facial expression recognition presented at CVPR 2023.
 
 ---
 
@@ -94,4 +94,4 @@ Pre-trained model weights are stored in the `checkpoints/` directory and can be 
 
 ## License
 
-This project is for research and educational purposes. Please refer to the [NEFER dataset license](https://github.com/miccunifi/NEFER) for dataset usage terms.
+
